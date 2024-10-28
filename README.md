@@ -17,12 +17,12 @@
 
 ---
 
-<img align="right" alt="Coding" width="400" src="https://api.daily.dev/devcards/6757fe6b374844648321a75d83614d0d.png?r=0rc" alt="Faysal Hossain's Dev Card"/>
+<img align="right" alt="Coding" width="350" src="https://api.daily.dev/devcards/6757fe6b374844648321a75d83614d0d.png?r=0rc" alt="Faysal Hossain's Dev Card"/>
 
 ### 👨‍💻 About Me:
-- 🔭 I’m currently working on **[Ellyo](https://ellyo.agency)**.
+- 🔭 I’m currently working on **[StudyIn PTY LTD](https://studyin.com.au/)**.
 - 🌱 I’m learning **TypeScript** and **React Native** to enhance my mobile app development skills.
-- 💻 All my projects are available on [**faysalhossain.com**](http://f4faysal.vercel.app/).
+- 💻 All my projects are available on [**f4faysal**](http://f4faysal.vercel.app/).
 - 💬 Ask me about **React, MERN Stack, TypeScript**.
 - 📫 You can reach me at **f4faysals@gmail.com**.
 - ⚡ Fun fact: **I love coding and have a great sense of humor** 😄.
